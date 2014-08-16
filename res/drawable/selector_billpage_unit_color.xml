@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item  android:color="#414450" android:drawable="@drawable/keyboard_unit_press" android:state_pressed="true"/>
+    <item  android:color="#595d69" android:drawable="@drawable/keyboard_unit_nor" android:state_pressed="false"/>
+
+</selector>

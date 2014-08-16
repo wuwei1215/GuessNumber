@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+
+    <drawable name="keyboard_button_clear_nor">#CC5DDC93</drawable>
+    <drawable name="keyboard_button_nor">#CC444750</drawable>
+    <drawable name="keyboard_button_press">#FFFFFF</drawable>
+    <drawable name="keyboard_unit_nor">#595d69</drawable>
+    <drawable name="keyboard_unit_press">#414450</drawable>
+
+</resources>
